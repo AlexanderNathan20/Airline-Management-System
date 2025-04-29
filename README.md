@@ -1,6 +1,5 @@
 # ✈️ Simple Airline Management System (SAMS)
-
-A relational database project for **CS4400: Introduction to Database Systems – Fall 2023** at Georgia Tech.  
+ 
 This system is designed to simulate and manage a simplified commercial airline operation, including flights, passengers, pilots, and airports across a multi-airport region.
 
 ---
